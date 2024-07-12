@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "nome": "Biografia de Joey",
+        "imagem": "assets/livro1.png"
+    },
+    {
+        "id": "2",
+        "nome": "Corrida Mortal",
+        "imagem": "assets/livro2.png"
+    },
+    {
+        "id": "3",
+        "nome": "Carreira de Senna",
+        "imagem": "assets/livro3.png"
+    },
+    {
+        "id": "4",
+        "nome": "Biografia de Dunlop",
+        "imagem": "assets/livro4.png"
+    },
+    {
+        "id": "5",
+        "nome": "Vida de Guy",
+        "imagem": "assets/livro5.png"
+    },
+    {
+        "id": "6",
+        "nome": "História de James",
+        "imagem": "assets/livro6.png"
+    },
+    {
+        "id": "7",
+        "nome": "História da F1",
+        "imagem": "assets/livro7.png"
+    },
+    {
+        "id": "8",
+        "nome": "Campeões da Corrida",
+        "imagem": "assets/livro8.png"
+    },
+    {
+        "id": "9",
+        "nome": "Ford vs Ferrari",
+        "imagem": "assets/livro9.png"
+    },
+    {
+        "id": "10",
+        "nome": "Desafio das 24 Horas",
+        "imagem": "assets/livro10.png"
+    },
+    {
+        "id": "11",
+        "nome": "Corrida Mortal 2",
+        "imagem": "assets/livro11.png"
+    },
+    {
+        "id": "12",
+        "nome": "Carreira de Rossi",
+        "imagem": "assets/livro12.png"
+    }
+]
