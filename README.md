@@ -3,8 +3,22 @@
 <h2>�� Sobre</h2>
 <p>Página criada para praticar React e Node.js</p>
 
-<h2>��Full stack JavaScript: crie um projeto com React e Node.js / ALURA</h2>
+<h2>Pesquisa de livros:</h2>
+<img src="Pesquisa.png" alt="">
 
+<h2>Livros favoritos:</h2>
+<img src="Favoritos.png" alt="">
+
+<h2>Pesquisa de livros:</h2>
+<img src="Pesquisa_2.png" alt="">
+
+<h2>Inserindo livros nos favoritos:</h2>
+<img src="Favorito_Inserido.png" alt="">
+
+<h2>Removendo livro dos favoritos:</h2>
+<img src="Favorito_Removido.png" alt="">
+
+<h2>��Full stack JavaScript: crie um projeto com React e Node.js / ALURA</h2>
 <p>
 -Compreender os conhecimentos básicos teóricos e práticos de React<br>
 -Aplicar a manutenção numa aplicação React<br>
