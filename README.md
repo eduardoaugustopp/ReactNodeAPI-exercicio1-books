@@ -3,6 +3,8 @@
 <h2>�� Sobre</h2>
 <p>Página criada para praticar React e Node.js</p>
 
+https://github.com/user-attachments/assets/f0784c8e-2f80-42d4-a63e-f37d1f299596
+
 <h2>��Full stack JavaScript: crie um projeto com React e Node.js / ALURA</h2>
 <p>
 -Compreender os conhecimentos básicos teóricos e práticos de React<br>
